@@ -1,0 +1,7 @@
+Flask
+SpeechRecognition
+PyAudio
+jsonpickle
+requests
+beautifulsoup4
+gTTS
